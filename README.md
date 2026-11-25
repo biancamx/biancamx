@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/biancamx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Designer+gr%C3%A1fica+que+virou+dev;Full+stack+com+olhar+de+design;Autentica%C3%A7%C3%A3o+e+seguran%C3%A7a+na+pr%C3%A1tica;Engenharia+de+Software+%40+Est%C3%A1cio" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=Full+stack+com+olhar+de+design;Autentica%C3%A7%C3%A3o+e+seguran%C3%A7a+na+pr%C3%A1tica;Engenharia+de+Software+%40+uniAteneu" alt="typing" />
 </a>
 
 <br/><br/>
