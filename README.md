@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/biancamx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Desenvolvedora+Full+Stack;React+%2B+Node.js+%2B+MongoDB;Foco+em+autenticação+e+segurança;Engenharia+de+Software+%40+UniAteneu" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Desenvolvedora+Full+Stack;React+%2B+Node.js+%2B+MongoDB;Foco+em+autentica%C3%A7%C3%A3o+e+seguran%C3%A7a;Engenharia+de+Software+%40+UniAteneu" alt="typing" />
 </a>
 
 <br/><br/>
