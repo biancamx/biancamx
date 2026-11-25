@@ -1,54 +1,117 @@
-# Maria Bianca Moura
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maria%20Bianca%20Moura&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Design%20%2B%20C%C3%B3digo%20%E2%80%A2%20Desenvolvedora%20Web&descAlignY=56&descSize=18" width="100%" alt="banner"/>
 
-Desenvolvedora web e graduanda em Engenharia de Software (Estácio). Venho de design gráfico e documentação técnica no setor automotivo, e levo esse cuidado com clareza e organização para o código. Construo aplicações web do front-end ao back-end, com atenção a autenticação e segurança.
+<div align="center">
 
-## Stack
+<a href="https://github.com/biancamx">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Designer+gr%C3%A1fica+que+virou+dev;Full+stack+com+olhar+de+design;Autentica%C3%A7%C3%A3o+e+seguran%C3%A7a+na+pr%C3%A1tica;Engenharia+de+Software+%40+Est%C3%A1cio" alt="typing" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancapereiira/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamoura.of@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancamx)
+
+</div>
+
+---
+
+## ✦ Sobre mim
+
+Venho de **design gráfico e documentação técnica no setor automotivo**, onde aprendi a transformar informação complexa em algo claro. Hoje levo esse mesmo cuidado para o código: construo aplicações web do front-end ao back-end, com atenção especial a **autenticação e segurança**.
+
+---
+
+## ✦ Stack
+
+<div align="center">
 
 **Front-end**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" />
 
-**Back-end**
+**Back-end e banco de dados**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Segurança e autenticação**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
-## Projeto em destaque
+**Segurança e autenticação**
 
-### [sistema-financeiro (Caderno de Contas)](https://github.com/biancamx/sistema-financeiro)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-hash-8B5CF6?style=for-the-badge)
+![Helmet](https://img.shields.io/badge/Helmet-HTTP_headers-0EA5E9?style=for-the-badge)
+
+</div>
+
+---
+
+## ✦ Projeto em destaque
+
+<div align="center">
+
+<a href="https://github.com/biancamx/sistema-financeiro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=biancamx&repo=sistema-financeiro&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+### 💰 Caderno de Contas
 
 Aplicação full stack de controle financeiro pessoal.
 
-- **Arquitetura:** front-end em React consumindo uma API REST em Node.js e Express, com persistência em MongoDB.
-- **Autenticação:** JWT e Google OAuth, com senhas protegidas por hash (bcrypt).
-- **Segurança:** validação de entrada com Zod, Helmet, CORS e rate limiting.
+| | |
+|---|---|
+| **Arquitetura** | Front-end em React consumindo uma API REST em Node.js e Express |
+| **Dados** | MongoDB com Mongoose |
+| **Autenticação** | JWT e Google OAuth, senhas protegidas com hash |
+| **Segurança** | Validação com Zod, Helmet, CORS e rate limiting |
 
-## Em estudo
+<details>
+<summary><b>🔍 Ver mais detalhes técnicos</b></summary>
+<br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- _(decisões que você tomou e por quê)_
+- _(um problema real que você resolveu)_
+- _(o que faria diferente hoje)_
 
-Testes automatizados, CI/CD e deploy.
+</details>
 
-## Contato
+---
 
-[LinkedIn](https://www.linkedin.com/in/biancapereiira/) · biancamoura.of@gmail.com
+## ✦ Em evolução
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,py&theme=dark" />
+
+<sub>PostgreSQL · Prisma · Docker · Python · Testes automatizados · CI/CD</sub>
+
+</div>
+
+---
+
+## ✦ GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=biancamx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancamx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=biancamx&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Design que organiza, código que funciona.* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
