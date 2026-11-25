@@ -39,7 +39,7 @@ Designer gráfica e graduanda em **Engenharia de Software** (Estácio), em trans
 Sistema de controle financeiro full stack, com autenticação e proteção de dados.
 - **Tecnologias:** React, Node.js, Express, MongoDB, Mongoose, React Router
 - **Destaques:** autenticação com JWT, hash de senhas com bcrypt, validação de dados com Zod e proteções de segurança (Helmet, CORS, rate limiting)
-- 🔗 [Ver repositório]((https://github.com/biancamx/sistema-financeiro)
+- 🔗 [Ver repositório](https://github.com/biancamx/sistema-financeiro)
 
 
 ## 🔐 Boas práticas que venho aplicando
