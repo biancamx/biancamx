@@ -71,15 +71,6 @@ Aplicação full stack de controle financeiro pessoal.
 | **Autenticação** | JWT e Google OAuth, senhas protegidas com hash |
 | **Segurança** | Validação com Zod, Helmet, CORS e rate limiting |
 
-<details>
-<summary><b>🔍 Ver mais detalhes técnicos</b></summary>
-<br/>
-
-- _(decisões que você tomou e por quê)_
-- _(um problema real que você resolveu)_
-- _(o que faria diferente hoje)_
-
-</details>
 
 ---
 
