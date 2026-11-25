@@ -1,6 +1,6 @@
 # Oi, eu sou a Bianca 👋
 
-Designer gráfica e graduanda em **Engenharia de Software** (Estácio), em transição para o desenvolvimento. Trabalho com ilustração técnica e documentação para o setor automotivo e uso esse olhar de design e organização da informação para construir aplicações web completas, do front-end ao back-end.
+Designer gráfica e graduanda em **Engenharia de Software** (uniAteneu), em transição para o desenvolvimento. Trabalho com ilustração técnica e documentação para o setor automotivo e uso esse olhar de design e organização da informação para construir aplicações web completas, do front-end ao back-end.
 
 ## 🌱 O que estou fazendo agora
 - Cursando o 2º semestre de Engenharia de Software
