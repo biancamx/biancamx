@@ -1,99 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maria%20Bianca%20Moura&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Design%20%2B%20C%C3%B3digo%20%E2%80%A2%20Desenvolvedora%20Web&descAlignY=56&descSize=18" width="100%" alt="banner"/>
+<!-- Repositório: biancamx/biancamx  ->  arquivo README.md -->
 
 <div align="center">
 
-<a href="https://github.com/biancamx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Desenvolvedora+Full+Stack;React+%2B+Node.js+%2B+MongoDB;Foco+em+autentica%C3%A7%C3%A3o+e+seguran%C3%A7a;Engenharia+de+Software+%40+UniAteneu" alt="typing" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=170&section=header&text=Maria%20Bianca%20Moura&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Design%20%2B%20C%C3%B3digo&descSize=16&descAlignY=58" alt="Maria Bianca Moura" />
 
-<br/><br/>
+**Desenvolvedora web full stack com formação em design gráfico.**
+Estudante de Engenharia de Software · Ceará, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancapereiira/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamoura.of@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancamx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/) <!-- confira o link -->
+[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamoura.of@gmail.com)
 
 </div>
 
 ---
 
-## ✦ Sobre mim
+## Sobre mim
 
-Venho de **design gráfico e documentação técnica no setor automotivo**, onde aprendi a transformar informação complexa em algo claro. Hoje levo esse mesmo cuidado para o código: construo aplicações web do front-end ao back-end, com atenção especial a **autenticação e segurança**.
+Venho do **design gráfico e da documentação técnica no setor automotivo**, onde aprendi a transformar informação complexa em algo claro. Hoje uso o mesmo critério no código: construo aplicações web do **front-end ao back-end**, com atenção especial a **autenticação, controle de acesso e segurança**.
 
----
+- Gosto de produto que resolve problema real: sistemas internos, painéis administrativos e ferramentas financeiras.
+- Cuido do visual e da experiência de uso tanto quanto da lógica, porque os dois fazem parte do mesmo resultado.
+- Atualmente estudando **Banco de Dados** e **Segurança**, e levando isso para os meus projetos.
 
-## ✦ Stack
+## Stack
 
 <div align="center">
 
-**Front-end**
+| Camada | Tecnologias |
+| :-- | :-- |
+| **Front-end** | React · TypeScript · JavaScript · Vite · HTML · CSS |
+| **Back-end** | Node.js · Express · REST APIs |
+| **Banco de dados** | MongoDB (Mongoose) |
+| **Segurança** | JWT · Google OAuth · bcrypt · Zod · Helmet · CORS · Rate limiting |
+| **Ferramentas** | Git · GitHub · Vercel · Render |
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" />
-
-**Back-end e banco de dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-**Segurança e autenticação**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-hash-8B5CF6?style=for-the-badge)
-![Helmet](https://img.shields.io/badge/Helmet-HTTP_headers-0EA5E9?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,nodejs,express,mongodb,git,github&perline=11" alt="Tecnologias" />
 
 </div>
 
----
+## Projetos em destaque
 
-## ✦ Projeto em destaque
+### Hub Produção
+Portal de acesso centralizado a sistemas e ferramentas internas, com painel administrativo para gestão de usuários, liberação de acessos e **auditoria de eventos**.
 
-<div align="center">
+- Perfis de acesso (Matriz, Administrador e Usuário), aprovação de cadastros e fila de pedidos de acesso.
+- Registro de logs por nível (INFO, WARN e ERROR) com usuário, IP e data/hora.
+- **Stack:** TypeScript · React
+- [Ver demo](https://hub-biancamx.vercel.app/) · [Código](https://github.com/biancamx/Hub)
 
-<a href="https://github.com/biancamx/sistema-financeiro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=biancamx&repo=sistema-financeiro&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+### Caderno de Contas (`sistema-financeiro`)
+Aplicação full stack de controle financeiro pessoal e compartilhado: parcelas, extratos, importação de planilhas e visão por pessoa.
 
-</div>
+- Front-end em React consumindo uma API REST em Node.js e Express.
+- Autenticação com JWT e Google OAuth, senhas com hash, validação com Zod e proteção com Helmet, CORS e rate limiting.
+- **Stack:** React · Node.js · Express · MongoDB
+- [Ver demo](https://sistema-financeiro-4ing.onrender.com/) · [Código](https://github.com/biancamx/sistema-financeiro)
 
-### 💰 Caderno de Contas
+## Em evolução
 
-Aplicação full stack de controle financeiro pessoal.
+Estou aprofundando o que vem depois do básico:
 
-| | |
-|---|---|
-| **Arquitetura** | Front-end em React consumindo uma API REST em Node.js e Express |
-| **Dados** | MongoDB com Mongoose |
-| **Autenticação** | JWT e Google OAuth, senhas protegidas com hash |
-| **Segurança** | Validação com Zod, Helmet, CORS e rate limiting |
+`PostgreSQL` · `Prisma` · `Docker` · `Python` · `Testes automatizados` · `CI/CD`
 
-
----
-
-## ✦ Em evolução
+## Constância
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,py&theme=dark" />
-
-<sub>PostgreSQL · Prisma · Docker · Python · Testes automatizados · CI/CD</sub>
-
-</div>
-
----
-
-## ✦ GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=biancamx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancamx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=biancamx&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="150" src="https://streak-stats.demolab.com?user=biancamx&theme=transparent&hide_border=true&ring=8E9EE8&fire=C9A0DC&currStreakLabel=8E9EE8" alt="Sequência de contribuições" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancamx&layout=compact&hide_border=true&langs_count=5&bg_color=00000000" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -101,8 +75,8 @@ Aplicação full stack de controle financeiro pessoal.
 
 <div align="center">
 
-*Design que organiza, código que funciona.* ✨
+*Design que organiza, código que funciona.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=90&section=footer" alt="" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
